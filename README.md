@@ -3,7 +3,7 @@
 This repository hosts my **BDM Capstone Project Portfolio Website**, deployed on **GitHub Pages**.  
 The project is part of the **IIT Madras Online BS Degree Program**.
 
-🔗 **Live site:** [https://Tusharisme.github.io](https://Tusharisme.github.io)
+🔗 **Live site:** [https://Tusharisme.github.io](https://tusharisme.github.io/BDM_Project/)
 
 ---
 
